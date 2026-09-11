@@ -1,4 +1,4 @@
-# 🎂 Sharmin Sultana Lipa — Birthday Surprise 💖
+# 🎂 Birthday Surprise 💖
 
 ✨ A special birthday surprise made with ML.
 
